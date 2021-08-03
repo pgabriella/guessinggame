@@ -1,0 +1,35 @@
+.container{
+  background-color: cornflowerblue;
+  width: 400px;
+  height: 210px;
+  padding: 25;
+  border-radius:20px;
+}
+
+.num{
+  text-align: center;
+  color: aliceblue;
+  font-family:monospace;
+  font-size: 18px;
+}
+
+#numb{
+  margin-left: 85px;
+  border-radius: 9px;
+  padding: 5px;
+  
+}
+
+button{
+
+  color: aliceblue;
+  background-color: blueviolet;
+  padding: 4px;
+  border-radius: 10px;
+}
+
+#msg{
+  text-align: center;
+  font-family: monospace;
+  color: aliceblue;
+}
